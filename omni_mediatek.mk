@@ -6,4 +6,4 @@ PRODUCT_DEVICE := mediatek
 PRODUCT_NAME := omni_mediatek
 PRODUCT_BRAND := mediatek
 PRODUCT_MANUFACTURER := mediatek
-PRODUCT_MODEL := Mediatek MT6582
+PRODUCT_MODEL := Mediatek MT6592
