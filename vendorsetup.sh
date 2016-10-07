@@ -1,1 +1,1 @@
-add_lunch_combo omni_mediatek-eng
+add_lunch_combo Micromax_A311-eng
